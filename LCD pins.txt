@@ -1,0 +1,22 @@
+LCD DO - PE7 - DB7
+LCD D1 - PE8 - A0
+LCD CLK - PE9 - DB6
+LCD EN - PTE10 - /CS
+LCD RS - PE11 - /RES
+
+LED_CLK - PE3
+LED_LATCH - PE4
+LED_DS - PE5
+
+PE11 = L
+wait for 
+PE11 = H
+
+
+PE7 - high - LCD ON
+
+A0 - Data:1 CMD:0 - PE8
+CS1 - low 	- PE10
+SCL - low 	- PE9
+SI - bit mask 	- PE7
+SCL - high

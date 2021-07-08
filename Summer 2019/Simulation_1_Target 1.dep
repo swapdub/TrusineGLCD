@@ -1,0 +1,3 @@
+Dependencies for Project 'Simulation_1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5D03C638)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -o "main.o" --omf_browse "main.crf" --depend "main.d")
+F (.\STM32F2xx_StdPeriph_Lib_V1.1.0-master\STM32F2xx_StdPeriph_Lib_V1.1.0-master\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_gpio.h)(0x5113A9CE)()

@@ -1,0 +1,13 @@
+#include "drivers/serial.h"
+#include <stm32f2xx.h>
+#include <stdio.h>
+
+#pragma import(__use_no_semihosting_swi)
+
+struct __FILE {
+	int handle;
+};
+FILE __stdout;
+FILE __stdin;
+	
+#define usart serial_USART1

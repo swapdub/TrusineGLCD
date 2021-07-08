@@ -1,0 +1,17 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Swapnil\Google Drive\Trusine\Summer 2019\Simulation_1.uvproj
+Project File Date:  06/25/2019
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+main.c(4): error:  #5: cannot open source input file "stm32f2xx.h": No such file or directory
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(4): error:  #5: cannot open source input file "stm32f2xx.h": No such file or directory
+Target not created
